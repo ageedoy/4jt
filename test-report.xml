@@ -1,3 +1,4 @@
-<testsuite name="Mocha Tests" tests="1" failures="0" errors="0" skipped="0" timestamp="Mon, 12 Oct 2015 22:24:07 GMT" time="0.003">
+<testsuite name="Mocha Tests" tests="2" failures="0" errors="0" skipped="0" timestamp="Mon, 12 Oct 2015 22:43:15 GMT" time="0.005">
 <testcase classname="Array #indexOf()" name="should return -1 when the value is not present" time="0"/>
+<testcase classname="Hello substring" name="check for substrings and arrays" time="0.002"/>
 </testsuite>
